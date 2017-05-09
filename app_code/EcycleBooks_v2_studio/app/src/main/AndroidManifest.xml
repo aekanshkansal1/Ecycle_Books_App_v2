@@ -2,23 +2,26 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.aekanshkansal.ecyclebooks"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.0">
 
     <uses-sdk
         android:minSdkVersion="17"
         android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/logo"
-        android:supportsRtl="true"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -27,40 +30,32 @@
         </activity>
         <activity
             android:name=".SignUpActivity"
-            android:label="@string/title_activity_sign_up" >
-        </activity>
+            android:label="@string/title_activity_sign_up"></activity>
         <activity
             android:name=".SignInActivity"
-            android:label="@string/title_activity_sign_in" >
-        </activity>
+            android:label="@string/title_activity_sign_in"></activity>
         <activity
             android:name=".UserInfoActivity"
-            android:label="@string/title_activity_user_info" >
-        </activity>
+            android:label="@string/title_activity_user_info"></activity>
         <activity
             android:name=".SellBookActivity"
-            android:label="@string/title_activity_sell_book" >
-        </activity>
+            android:label="@string/title_activity_sell_book"></activity>
         <activity
             android:name=".NeedBookActivity"
-            android:label="@string/title_activity_need_book" >
-        </activity>
+            android:label="@string/title_activity_need_book"></activity>
         <activity
             android:name=".ListBooks"
-            android:label="@string/title_activity_list_books" >
-        </activity>
+            android:label="@string/title_activity_list_books"></activity>
         <activity
             android:name=".AddBook"
-            android:label="@string/title_activity_add_book" >
-        </activity>
+            android:label="@string/title_activity_add_book"></activity>
         <activity
             android:name=".ChooseBook"
-            android:label="@string/title_activity_choose_book" >
-        </activity>
+            android:label="@string/title_activity_choose_book"></activity>
         <activity
             android:name=".DonateBookActivity"
-            android:label="@string/title_activity_donate_book" >
-        </activity>
+            android:label="@string/title_activity_donate_book"></activity>
+        <activity android:name=".ForgetPasswordActivity"></activity>
     </application>
 
 </manifest>

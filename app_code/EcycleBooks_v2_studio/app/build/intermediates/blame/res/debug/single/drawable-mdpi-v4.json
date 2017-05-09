@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\android_bg_hover.xml",
-        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\android_bg_hover.xml"
+        "merged": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\android_bg_hover.xml",
+        "source": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\android_bg_hover.xml"
     },
     {
-        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cover2.jpeg",
-        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\cover2.jpeg"
+        "merged": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gradient_bg.xml",
+        "source": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\gradient_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector.xml",
-        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\list_selector.xml"
+        "merged": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\list_selector.xml",
+        "source": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\list_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\gradient_bg.xml",
-        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\gradient_bg.xml"
+        "merged": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cover2.jpeg",
+        "source": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\cover2.jpeg"
     },
     {
-        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cover4.jpg",
-        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\cover4.jpg"
+        "merged": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cover4.jpg",
+        "source": "C:\\Users\\GP\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\drawable-mdpi\\cover4.jpg"
     }
 ]

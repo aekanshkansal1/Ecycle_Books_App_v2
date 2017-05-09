@@ -3,111 +3,66 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jar="C:\Users\GP\.android\build-cache\826f8baddf91237afad1ae2d5cd214b06b81fe22\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_f676cbf4bc5e40a3fbb4ecfb98e80d3daa8436af.jar" />
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\GP\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\classes_75da76c65ceec85746009b1ebffa92808b572527.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jar="C:\Users\GP\.android\build-cache\a12ac0adb32fb05ea4daa9b99def1e6aff2f291c\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_1d064c83cc6ec16f2d6955624e738c7fce36d799.jar" />
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\GP\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\classes_67ee96ff21d49c8c8c37b6d8a069129bdefc1150.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jar="C:\Users\GP\.android\build-cache\dd3850c9814e514fd8447aeaa602da5255460560\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_55e2d7da97d4bd0736709e20bbd88a94145aab53.jar" />
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\GP\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\classes_e0c6d3bbab86e7d714893b1537034558c71debcd.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jar="C:\Users\GP\.android\build-cache\82ced9cc752383d4b6ed15e339da22eaef61cad5\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_2e6f935829e61f4481f6297a1f7ee4da61057b9c.jar" />
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\GP\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\classes_bf633edc8da6415105b086e50788930e3d7e79ed.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\sdknew\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jar="C:\Users\GP\.android\build-cache\def05530fbd2f8e691a5c2fd8dc732df419f3c82\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_6894b834a9654430c8a101da4152ef986cd3deb1.jar" />
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\GP\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\classes_94627896d004ac9f951038f811f0cd766af088c2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jar="C:\Users\GP\.android\build-cache\4d434f5fa064472cbc6ca3d778f847c7268aca49\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_47c524ce5f63eb80c33c48af6b681f25caa39170.jar" />
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\GP\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\classes_0b0f62abefb50f60662234e948baabf084db8c33.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jar="C:\Users\GP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bd147381cdecacf451e104d5bb26024f59287b53.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_a3a568d523f599f406328d4b325648d10d0da6b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_81b6740cddfd7c56537561cdd134964d045da081.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_54843860e7684f400f4015a02352dbb2bd1737e9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_457f9d225bf072cc5b2dd845582f715bbb52e72d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="C:\Users\Aekansh Kansal\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_7bb9970149a22b203250231f96b74689102f225e.jar" />
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\GP\AndroidStudioProjects\EcycleBooks_v2_studio\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_fa4525d01f4e22754d56fe9ee739e44f83b07a63.jar" />
     </item>
 
 </items>

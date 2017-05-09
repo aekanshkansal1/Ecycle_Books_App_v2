@@ -9,6 +9,13 @@
         android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
 
     <application
         android:allowBackup="true"
@@ -27,40 +34,32 @@
         </activity>
         <activity
             android:name="com.aekanshkansal.ecyclebooks.SignUpActivity"
-            android:label="@string/title_activity_sign_up" >
-        </activity>
+            android:label="@string/title_activity_sign_up" />
         <activity
             android:name="com.aekanshkansal.ecyclebooks.SignInActivity"
-            android:label="@string/title_activity_sign_in" >
-        </activity>
+            android:label="@string/title_activity_sign_in" />
         <activity
             android:name="com.aekanshkansal.ecyclebooks.UserInfoActivity"
-            android:label="@string/title_activity_user_info" >
-        </activity>
+            android:label="@string/title_activity_user_info" />
         <activity
             android:name="com.aekanshkansal.ecyclebooks.SellBookActivity"
-            android:label="@string/title_activity_sell_book" >
-        </activity>
+            android:label="@string/title_activity_sell_book" />
         <activity
             android:name="com.aekanshkansal.ecyclebooks.NeedBookActivity"
-            android:label="@string/title_activity_need_book" >
-        </activity>
+            android:label="@string/title_activity_need_book" />
         <activity
             android:name="com.aekanshkansal.ecyclebooks.ListBooks"
-            android:label="@string/title_activity_list_books" >
-        </activity>
+            android:label="@string/title_activity_list_books" />
         <activity
             android:name="com.aekanshkansal.ecyclebooks.AddBook"
-            android:label="@string/title_activity_add_book" >
-        </activity>
+            android:label="@string/title_activity_add_book" />
         <activity
             android:name="com.aekanshkansal.ecyclebooks.ChooseBook"
-            android:label="@string/title_activity_choose_book" >
-        </activity>
+            android:label="@string/title_activity_choose_book" />
         <activity
             android:name="com.aekanshkansal.ecyclebooks.DonateBookActivity"
-            android:label="@string/title_activity_donate_book" >
-        </activity>
+            android:label="@string/title_activity_donate_book" />
+        <activity android:name="com.aekanshkansal.ecyclebooks.ForgetPasswordActivity" />
     </application>
 
 </manifest>

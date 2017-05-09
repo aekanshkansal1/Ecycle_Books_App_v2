@@ -60,6 +60,14 @@ public class SignInActivity extends Activity{
 
 			}
 		});
+		Button forgetButton = (Button) findViewById(R.id.btn_forgot);
+		forgetButton.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(getApplicationContext(),ForgetPasswordActivity.class);
+				startActivity(intent);
+			}
+		});
 	}
 	
 	

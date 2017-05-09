@@ -6,53 +6,76 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.aekanshkansal.ecyclebooks.SignInActivity" >
+    tools:context="com.aekanshkansal.ecyclebooks.SignInActivity">
 
-<LinearLayout
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:orientation="vertical"
-    >
-
-    <TextView
-        android:id="@+id/textView1"
-        android:layout_width="match_parent"
-        android:textSize="20sp"
-        android:layout_marginTop="30dp"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:text="@string/signin_book_heading" />
-
-    <EditText
-        android:id="@+id/editText1"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:ems="10"
-        android:layout_marginTop="25dp"
-        android:maxLength="150"
-        android:hint="@string/signin_book_mail"
-        android:inputType="textEmailAddress" />
+        android:orientation="vertical">
 
-    <EditText
-        android:id="@+id/editText2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:fontFamily="sans-serif"
-        android:layout_marginTop="25dp"
-        android:ems="10"
-        android:maxLength="50"
-        android:hint="@string/signin_book_pass"
-        android:inputType="textPassword" >
-        <requestFocus />
-    </EditText>
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:gravity="center"
+            android:text="@string/signin_book_heading"
+            android:textSize="20sp" />
 
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginTop="20dp"
-        android:text="@string/signin_book_submit" />
-    
-</LinearLayout>
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:ems="10"
+            android:hint="@string/signin_book_mail"
+            android:inputType="textEmailAddress"
+            android:maxLength="150" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:ems="10"
+            android:fontFamily="sans-serif"
+            android:hint="@string/signin_book_pass"
+            android:inputType="textPassword"
+            android:maxLength="50">
+
+            <requestFocus />
+        </EditText>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="@string/signin_book_submit" />
+
+        <Button
+            android:id="@+id/btn_forgot"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:text="@string/signin_book_for_password" />
+
+        <Button
+            android:id="@+id/btn_google"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="@string/signin_book_submit_google" />
+        <Button
+            android:id="@+id/btn_facebook"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="@string/signin_book_submit_facebook" />
+    </LinearLayout>
 </ScrollView>
