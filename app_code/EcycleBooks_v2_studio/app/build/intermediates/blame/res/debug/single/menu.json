@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\user_info.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\list_books.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\list_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\need_book.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\need_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_book.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\add_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sell_book.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\sell_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\donate_book.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\donate_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\choose_book.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\choose_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sign_up.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sign_in.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Aekansh Kansal\\AndroidStudioProjects\\EcycleBooks_v2_studio\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
